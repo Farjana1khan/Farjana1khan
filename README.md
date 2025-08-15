@@ -5,6 +5,13 @@ A passionate **Frontend Developer** from India 🚀
 💼 **LinkedIn:** [Farjana Khan](https://www.linkedin.com/in/farjana-fatehmohd/)  
 💻 **GitHub:** [Farjana1khan](https://github.com/Farjana1khan)  
 
+💻 I’m working on web apps, learning advanced TypeScript patterns, open to collaborating on frontend-focused freelance & open-source projects, and seeking help to enhance performance and scalability in large React/Next.js apps. 
+🚀 Check out my work on my [Portfolio Website](https://farjana-portfolio-website.vercel.app/).
+📚 I regularly explore frontend development best practices, React & Next.js tutorials, advanced TypeScript patterns, UI/UX design with Tailwind CSS & Bootstrap, and API integration with performance optimization.
+
+
+
+
 ## 🔭 I’m currently working on
 API integrations & responsive web apps  
 
