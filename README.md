@@ -43,8 +43,9 @@ I debug faster with coffee ☕ and Tailwind classes 🎨
 
 ## 🛠 Languages and Tools:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,astro,js,ts,html,css,tailwind,scss,bootstrap,materialui,formik,git,github,jira,postman,vscode, vercel,netlify" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,astro,js,ts,html,css,tailwind,scss,bootstrap,materialui,formik,git,github,jira,postman,vscode,vercel,netlify" />
 </p>
+
 
 ---
 
