@@ -43,7 +43,7 @@ I debug faster with coffee ☕ and Tailwind classes 🎨
 
 ## 🛠 Languages and Tools:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,astro,js,ts,html,css,tailwind,scss,bootstrap,materialui,formik,git,github,jira,postman,vscode,vercel,netlify" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,astro,js,ts,html,css,tailwind,scss,bootstrap,materialui,git,github,jira,postman,vscode,vercel,netlify" />
 </p>
 
 
@@ -51,8 +51,15 @@ I debug faster with coffee ☕ and Tailwind classes 🎨
 
 ## 📊 GitHub Stats:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Farjana1khan&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Farjana1khan&show_icons=true&theme=radical&count_private=true&include_all_commits=true" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Farjana1khan&theme=radical" height="165"/>
+</p>
+
+## 📈 Contributions & Activity:
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Farjana1khan&theme=radical" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Farjana1khan&theme=radical" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Farjana1khan&theme=radical" height="180"/>
 </p>
 
 ---
