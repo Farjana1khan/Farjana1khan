@@ -1,5 +1,5 @@
 # Hi 👋, I'm Farjana Khan  
-A passionate **Frontend Developer** from India 🚀  
+A passionate **Frontend Developer**  🚀  
 
 🌐 **Portfolio:** [farjana-portfolio-website.vercel.app](https://farjana-portfolio-website.vercel.app)  
 💼 **LinkedIn:** [Farjana Khan](https://www.linkedin.com/in/farjana-fatehmohd/)  
@@ -8,18 +8,33 @@ A passionate **Frontend Developer** from India 🚀
 ---
 
 ## 🔭 I’m currently working on
-- Multi-theme React applications  
+
 - API integrations & responsive web apps  
 
 ## 🌱 I’m currently learning
 - Advanced **TypeScript** patterns  
-- Backend integration best practices  
 
 ## 👯 I’m looking to collaborate on
 - **Frontend-focused freelance** and open-source projects  
 
+## 🤝 I’m looking for help with
+- null  
+
+## 👨‍💻 All of my projects are available at
+- [Portfolio Website](https://farjana-portfolio-website.vercel.app/)  
+
+## 📝 I regularly read about
+- **Frontend development tips** and best practices  
+- **React & Next.js tutorials** for building modern web apps  
+- **Advanced TypeScript patterns** for scalable projects  
+- **UI/UX design principles** with Tailwind CSS & Bootstrap  
+- **API integration** and performance optimization  
+  
+## 💬 Ask me about
+- **Design** & **Web Technologies** (React, Next.js, Astro, TypeScript, Tailwind CSS, Bootstrap)
+
 ## 📫 How to reach me
-- Email: `farjana@example.com`  
+- Email: `farjana09khan@gmail.com`  
 - LinkedIn: [Farjana Fatehmohd](https://www.linkedin.com/in/farjana-fatehmohd/)  
 
 ## ⚡ Fun fact
@@ -29,7 +44,7 @@ I debug faster with coffee ☕ and Tailwind classes 🎨
 
 ## 🛠 Languages and Tools:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,scss,bootstrap,materialui,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,astro,js,ts,html,css,tailwind,scss,bootstrap,materialui,formik,git,github,jira,postman,vscode, vercel,netlify" />
 </p>
 
 ---
@@ -45,21 +60,19 @@ I debug faster with coffee ☕ and Tailwind classes 🎨
 ## 🏆 GitHub Trophies:
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=Farjana1khan&theme=radical&no-frame=true&margin-w=15&margin-h=15"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Farjana1khan&theme=radical&title=Commits,Stars,Followers"/>
 </p>
 
 ---
 
-## 📌 Featured Projects:
-- 🌟 **[Multi-Theme Switcher App](https://multi-theme-switcher-app-alpha.vercel.app/)** — A React app with three distinct themes & layout variations  
-- 🌟 **[Portfolio Website](https://farjana-portfolio-website.vercel.app/)** — Personal portfolio built with Astro & Tailwind CSS  
+## 📌 Featured Projects: 
+- 🌟 **[Portfolio Website](https://farjana-portfolio-website.vercel.app/)** — Built with **React JS** & **Bootstrap** to showcase my projects, skills, and experience.  
 
 ---
 
 ### 📬 Let’s Connect!
 <p align="left">
 <a href="https://www.linkedin.com/in/farjana-fatehmohd/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"></a>
-<a href="mailto:farjana@example.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
+<a href="mailto:farjana09khan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
 <a href="https://github.com/Farjana1khan"><img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white"></a>
 </p>
 
