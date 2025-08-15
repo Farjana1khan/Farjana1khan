@@ -33,7 +33,7 @@ Enhancing performance and scalability in large React/Next.js projects
 - **Design** & **Web Technologies** (React, Next.js, Astro, TypeScript, Tailwind CSS, Bootstrap)
 
 ## 📫 How to reach me
-- Email: `farjana09khan@gmail.com`  
+- Email: [farjana09khan@gmail.com](mailto:farjana09khan@gmail.com)
 - LinkedIn: [Farjana Fatehmohd](https://www.linkedin.com/in/farjana-fatehmohd/)  
 
 ## ⚡ Fun fact
