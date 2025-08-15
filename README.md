@@ -51,7 +51,7 @@ I debug faster with coffee ☕ and Tailwind classes 🎨
 
 ## 📊 GitHub Stats:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Farjana1khan&show_icons=true&theme=radical&count_private=true&include_all_commits=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Farjana1khan&show_icons=true&theme=radical" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Farjana1khan&theme=radical" height="165"/>
 </p>
 
