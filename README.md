@@ -34,7 +34,7 @@ Enhancing performance and scalability in large React/Next.js projects
 
 ## 📫 How to reach me
 - Email: [farjana09khan@gmail.com](mailto:farjana09khan@gmail.com)
-- LinkedIn: [Farjana Fatehmohd](https://www.linkedin.com/in/farjana-fatehmohd/)  
+- LinkedIn: [Farjana Khan](https://www.linkedin.com/in/farjana-fatehmohd/)  
 
 ## ⚡ Fun fact
 I debug faster with coffee ☕ and Tailwind classes 🎨  
