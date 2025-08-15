@@ -5,8 +5,6 @@ A passionate **Frontend Developer** from India 🚀
 💼 **LinkedIn:** [Farjana Khan](https://www.linkedin.com/in/farjana-fatehmohd/)  
 💻 **GitHub:** [Farjana1khan](https://github.com/Farjana1khan)  
 
----
-
 ## 🔭 I’m currently working on
 API integrations & responsive web apps  
 
