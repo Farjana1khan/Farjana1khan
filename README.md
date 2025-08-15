@@ -45,6 +45,7 @@ I debug faster with coffee ☕ and Tailwind classes 🎨
 ## 🏆 GitHub Trophies:
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=Farjana1khan&theme=radical&no-frame=true&margin-w=15&margin-h=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Farjana1khan&theme=radical&title=Commits,Stars,Followers"/>
 </p>
 
 ---
