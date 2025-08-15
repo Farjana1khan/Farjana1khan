@@ -8,20 +8,19 @@ A passionate **Frontend Developer**  🚀
 ---
 
 ## 🔭 I’m currently working on
-
-- API integrations & responsive web apps  
+API integrations & responsive web apps  
 
 ## 🌱 I’m currently learning
-- Advanced **TypeScript** patterns  
+Advanced **TypeScript** patterns  
 
 ## 👯 I’m looking to collaborate on
-- **Frontend-focused freelance** and open-source projects  
+**Frontend-focused freelance** and open-source projects  
 
 ## 🤝 I’m looking for help with
-- null  
+Enhancing performance and scalability in large React/Next.js projects  
 
 ## 👨‍💻 All of my projects are available at
-- [Portfolio Website](https://farjana-portfolio-website.vercel.app/)  
+[Portfolio Website](https://farjana-portfolio-website.vercel.app/)  
 
 ## 📝 I regularly read about
 - **Frontend development tips** and best practices  
