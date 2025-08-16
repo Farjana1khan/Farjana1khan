@@ -1,4 +1,6 @@
-👀 [Profile Views](https://www.linkedin.com/in/farjana-fatehmohd/)  
+![Profile Views](https://komarev.com/ghpvc/?username=Farjana1khan&color=blue)
+![Followers](https://img.shields.io/github/followers/Farjana1khan?label=Followers&style=social)
+ 
 
 <h1 align="center">Hi 👋, I'm Farjana Khan</h1>
 <p align="center">A passionate <strong>Frontend Developer</strong> from India 🚀</p>
