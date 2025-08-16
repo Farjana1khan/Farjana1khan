@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on responsive web apps
 
-- 👯 I’m looking to collaborate on **Frontend-focused freelance and open-source projects** ![Frontend + Backend freelance](https://img.shields.io/badge/Frontend+Backend--freelance-orange)
+- 👯 I’m looking to collaborate on Frontend-focused freelance and open-source projects
 
 - 🤝 I’m looking for help with Enhancing performance and scalability in large React/Next.js projects
 
