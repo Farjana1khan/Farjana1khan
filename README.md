@@ -38,12 +38,12 @@
 ---
 
 ## 🛠 Languages and Tools:
-- 🛠 Frontend:
+ 🎨 Frontend:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,astro,js,ts,html,css,tailwind,scss,bootstrap,materialui" />
 </p>
 
-- 🛠 Backend:
+  🖥️ Backend:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,,mongodb" />
 </p>
