@@ -5,17 +5,17 @@ A passionate **Frontend Developer** from India 🚀
 💼 **LinkedIn:** [Farjana Khan](https://www.linkedin.com/in/farjana-fatehmohd/)  
 💻 **GitHub:** [Farjana1khan](https://github.com/Farjana1khan)  
 
-🔭 I’m currently working on responsive web apps
+- 🔭 I’m currently working on responsive web apps
 
-👯 I’m looking to collaborate on Frontend-focused freelance and open-source projects
+- 👯 I’m looking to collaborate on Frontend-focused freelance and open-source projects
 
-🤝 I’m looking for help with Enhancing performance and scalability in large React/Next.js projects
+- 🤝 I’m looking for help with Enhancing performance and scalability in large React/Next.js projects
 
-💬 Ask me about Frontend Development, React, Next.js, and Web Technologies
+- 💬 Ask me about Frontend Development, React, Next.js, and Web Technologies
 
-📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/farjana-fatehmohd/) 
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/farjana-fatehmohd/) 
 
-⚡ Fun fact Computers works like human thinks
+- ⚡ Fun fact Computers works like human thinks
 
 ## 📝 I regularly read about
 - **Frontend development tips** and best practices  
@@ -63,7 +63,7 @@ A passionate **Frontend Developer** from India 🚀
 ---
 
 ## 📌 Featured Projects: 
-- 🌟 **[Portfolio Website](https://farjana-portfolio-website.vercel.app/)** — Built with **React JS** & **Bootstrap** to showcase my projects, skills, and experience.  
+🌟 **[Portfolio Website](https://farjana-portfolio-website.vercel.app/)** — Built with **React JS** & **Bootstrap** to showcase my projects, skills, and experience.  
 
 ---
 
