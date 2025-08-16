@@ -45,7 +45,7 @@
 
   🖥️ Backend:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,expressjs,mysql,,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nodejs,expressjs,mysql,mongodb" />
 </p>
 
 
