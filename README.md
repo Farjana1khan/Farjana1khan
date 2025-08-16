@@ -5,16 +5,17 @@ A passionate **Frontend Developer** from India 🚀
 💼 **LinkedIn:** [Farjana Khan](https://www.linkedin.com/in/farjana-fatehmohd/)  
 💻 **GitHub:** [Farjana1khan](https://github.com/Farjana1khan)  
 
-## 🔭 I’m currently working on - API integrations & responsive web apps  
+🔭 I’m currently working on responsive web apps
 
-## 🌱 I’m currently learning - Advanced **TypeScript** patterns  
+👯 I’m looking to collaborate on Frontend-focused freelance and open-source projects
 
-## 👯 I’m looking to collaborate on - **Frontend-focused freelance** and open-source projects  
+🤝 I’m looking for help with Enhancing performance and scalability in large React/Next.js projects
 
-## 🤝 I’m looking for help with - Enhancing performance and scalability in large React/Next.js projects  
+💬 Ask me about Frontend Development, React, Next.js, and Web Technologies
 
-## 👨‍💻 All of my projects are available at
-[Portfolio Website](https://farjana-portfolio-website.vercel.app/)  
+📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/farjana-fatehmohd/) 
+
+⚡ Fun fact Computers works like human thinks
 
 ## 📝 I regularly read about
 - **Frontend development tips** and best practices  
@@ -22,16 +23,13 @@ A passionate **Frontend Developer** from India 🚀
 - **Advanced TypeScript patterns** for scalable projects  
 - **UI/UX design principles** with Tailwind CSS & Bootstrap  
 - **API integration** and performance optimization  
-  
-## 💬 Ask me about
-- **Design** & **Web Technologies** (React, Next.js, Astro, TypeScript, Tailwind CSS, Bootstrap)
+
+## 👨‍💻 All of my projects are available at
+[Portfolio Website](https://farjana-portfolio-website.vercel.app/)  
 
 ## 📫 How to reach me
 - Email: [farjana09khan@gmail.com](mailto:farjana09khan@gmail.com)
 - LinkedIn: [Farjana Khan](https://www.linkedin.com/in/farjana-fatehmohd/)  
-
-## ⚡ Fun fact
-I debug faster with coffee ☕ and Tailwind classes 🎨  
 
 ---
 
@@ -39,7 +37,6 @@ I debug faster with coffee ☕ and Tailwind classes 🎨
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,astro,js,ts,html,css,tailwind,scss,bootstrap,materialui,git,github,jira,postman,vscode,vercel,netlify" />
 </p>
-
 
 ---
 
