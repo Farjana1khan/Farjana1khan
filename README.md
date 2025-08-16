@@ -1,5 +1,7 @@
-# Hi 👋, I'm Farjana Khan  
-A passionate **Frontend Developer** from India 🚀  
+👀 [Profile Views](https://www.linkedin.com/in/farjana-fatehmohd/)  
+
+<h1 align="center">Hi 👋, I'm Farjana Khan</h1>
+<p align="center">A passionate <strong>Frontend Developer</strong> from India 🚀</p>
 
 🌐 **Portfolio:** [farjana-portfolio-website.vercel.app](https://farjana-portfolio-website.vercel.app)  
 💼 **LinkedIn:** [Farjana Khan](https://www.linkedin.com/in/farjana-fatehmohd/)  
