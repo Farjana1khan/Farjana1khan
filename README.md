@@ -17,7 +17,14 @@
 
 - 💬 Ask me about Frontend Development, React, Next.js, and Web Technologies
 
-- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/farjana-fatehmohd/) 
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/farjana-fatehmohd/)
+
+- ## 📄 Know about my experiences
+
+<a href="https://www.linkedin.com/in/farjana-khan/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
+</a>
+
 
 - ⚡ Fun fact Computers works like human thinks
 
